@@ -1,17 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-
-
-function Greeting() {
-  return <h4>This is first comit </h4>
-}
-
-
+import './index.css'
+import App from './App'
 
 ReactDOM.render(
   <React.StrictMode>
-    <Greeting />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );
