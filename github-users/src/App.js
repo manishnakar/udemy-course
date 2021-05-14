@@ -38,6 +38,7 @@ function App() {
         </button>
       </div>
       </header>
+      <hr style={{ marginTop: '10px', borderTop: '1px dashed lightgrey'}}></hr>
       {isLoading 
       ? <h2> Loading ...</h2>
       :  

@@ -1,0 +1,1 @@
+https://secure.rezserver.com/hotels/results_v2/list/?city_id=800056409&type=city&rooms=1&adults=2&children=0&date_search=0&currency=USD&distancefrom_latlong=34.0521%2C-118.2433&distance_unit=mile&search_type=city&refid=2050
