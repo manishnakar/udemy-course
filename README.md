@@ -1,43 +1,6 @@
 # udemy-course
 
-add FAST_REFRESH=FALSE in .env file
-
-## editor settings
-
-Prettier - Code formatter
-VS Code plugin for prettier/prettier
-
-"editor.formatOnPaste": true,
-"editor.formatOnSave": true,
-
-settings.json
-
-"emmet.includeLanguages": {
-"javascript": "javascriptreact"
-},
-
-Bracket Pair Colorizer
-A customizable extension for colorizing matching brackets
-
-indent-rainbow
-Makes indentation easier to read
-
-MDX
-Provides syntax highlighting and bracket matching for MDX (JSX in Markdown) files.
-
----
-
-- useState
-- useEffect
-- Conditional rendering
-- forms
-- useRef
-- useStyles
-- useReducer
-- Prop Drilling
-- Context API / useContext
-
 Projects
 
-- Birthday remindeder[https://github.com/]
+- [Birthday remindeder](https://elated-kirch-2be502.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/478d524b-2681-4d0f-8b32-cd2d7fba8c13/deploy-status)](https://app.netlify.com/sites/elated-kirch-2be502/deploys)
 -
